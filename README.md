@@ -1,7 +1,4 @@
-# Blender_Ring_Animation
-
-
-# Ring Loop Animation Project
+# Blender Ring Animation
 
 ## Overview
 
