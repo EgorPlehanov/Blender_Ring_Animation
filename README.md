@@ -1,5 +1,7 @@
 # Blender Ring Animation
 
+![ring_video_gif](https://github.com/EgorPlehanov/Blender_Ring_Animation/blob/main/ring_video0001-0360.gif)
+
 ## Overview
 
 This Python script utilizes Blender to create an abstract ring animation loop. The animation consists of a dynamic sequence of rings with various rotations and materials, rendered in a square format at 1080p resolution.
